@@ -1,2 +1,2 @@
 # Data-Analysis-
-![Data Cleaning Comparison](comparison.png)
+![Data Cleaning Comparison](Before and After Cleaning.png)
